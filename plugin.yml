@@ -1,0 +1,7 @@
+name: InventorySaver
+version: 1.0
+main: com.BNPL.InventorySaver.Main
+
+commands:
+  인벤토리:
+    description: ''
